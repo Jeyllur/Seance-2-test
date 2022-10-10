@@ -12,6 +12,7 @@ namespace Seance_2_test
         {
             Console.WriteLine("Salu! Je m'appelle Liliya!");
             Console.ReadLine();
+            Console.WriteLine("J'ai 26 ans!");
         }
     }
 }
