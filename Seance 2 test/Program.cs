@@ -10,6 +10,8 @@ namespace Seance_2_test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Salu! Je m'appelle Liliya!");
+            Console.ReadLine();
         }
     }
 }
